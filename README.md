@@ -1,2 +1,2 @@
 # jovian-careers-webiste
-a carrers website for jovian
+A carrers website for jovian
